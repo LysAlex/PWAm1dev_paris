@@ -15,6 +15,12 @@ Reset CSS
    body {
        font-size:1.6rem;
    }
+/*
+Title
+*/
 
+     h1 {
+         color:green
+     }
 
 /**/
